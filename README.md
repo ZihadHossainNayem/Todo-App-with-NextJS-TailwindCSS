@@ -9,4 +9,4 @@
 - [DaisyUI](https://daisyui.com/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [Json-server](https://github.com/typicode/json-server) 
-- -[uuid](https://www.npmjs.com/package/uuid)
+- [uuid](https://www.npmjs.com/package/uuid)
